@@ -1,5 +1,3 @@
- Employee Management Django App on Kubernetes body { font-family: Arial, sans-serif; line-height: 1.6; margin: 40px; max-width: 800px; } code { background-color: #f4f4f4; padding: 2px 4px; font-size: 0.95em; border-radius: 4px; } pre { background-color: #f4f4f4; padding: 12px; border-radius: 6px; overflow-x: auto; } h1, h2, h3 { color: #2c3e50; }
-
 Employee Management Django App on Kubernetes
 ============================================
 
