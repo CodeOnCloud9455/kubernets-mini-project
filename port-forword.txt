@@ -1,0 +1,1 @@
+ kubectl port-forward services/django-app-svc -n emp-app 8000:8000 --address=0.0.0.0
