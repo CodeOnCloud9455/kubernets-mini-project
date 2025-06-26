@@ -43,4 +43,4 @@ Open your browser and go to: [http://localhost:8000](http://localhost:8000)
 Acknowledgments
 ---------------
 
-Special thanks to the developer of the Docker image `[memorydrive/employee-management](https://github.com/syn606)` for making this application deployment-ready.
+Special thanks to the developer of the Docker image [memorydrive/employee-management](https://github.com/syn606) for making this application deployment-ready.
